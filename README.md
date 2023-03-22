@@ -1,18 +1,27 @@
-## Getting Started
+<h1 align="center"> Currencies converter and others </h1>
+![Main window screenshot](src/images/Converter.PNG)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Project description:
 
-## Folder Structure
+Currency converter and others, it is an application
+Mainly designed to convert currencies in real time, with support for more than 169 different types of currencies around the world including Bitcoin and Gold.
+Also with this app you can convert different types of temperature units and pressure units. All this with a very intuitive and easy-to-use interface.
 
-The workspace contains two folders by default, where:
+Used technology:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+JDK 19
+org.json
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+<h1 align="center"> Conversor de divisas y otros </h1>
+![Pantallazo ventana principal](src/images/Converter.PNG)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Descripción del proyecto:
 
-## Dependency Management
+Conversor de divisas y otros, es una aplicación 
+diseñada principalmente para convertir divisas en tiempo real, con soporte para mas de 169 tipos diferentes de monedas direntes alrededor del mundo entre ellas Bitcoin y Oro.
+Tambien con esta app puedes convertir diferentes tipos de  unidades temperaturas y unidades de presión.Todo esto con unaa interfaz muy intuitiva y faciol de usar.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+ Tecnologías utilizadas:
+
+JDK 19
+org.json
