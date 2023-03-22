@@ -1,5 +1,8 @@
 <h1 align="center"> Currencies converter and others </h1>
-![Main window screenshot](src/images/Converter.PNG)
+
+<p align="center" >
+     <img width="600" heigth="300" src="src/images/Converter.PNG">
+</p>
 
 Project description:
 
@@ -13,7 +16,10 @@ JDK 19
 org.json
 
 <h1 align="center"> Conversor de divisas y otros </h1>
-![Pantallazo ventana principal](src/images/Converter.PNG)
+
+<p align="center" >
+     <img width="600" heigth="300" src="src/images/Converter.PNG">
+</p>
 
 Descripción del proyecto:
 
@@ -25,3 +31,7 @@ Tambien con esta app puedes convertir diferentes tipos de  unidades temperaturas
 
 JDK 19
 org.json
+
+<p align="center" >
+     <img width="600" heigth="300" src="src/images/Converter.PNG">
+</p>
