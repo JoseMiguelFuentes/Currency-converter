@@ -15,6 +15,11 @@ Used technology:
 JDK 19
 org.json
 
+<a src="https://terabox.com/s/1lcYBiwFXd1pnuW_JkMuGlQ" >Download the project jar here</a>
+<a src="https://terabox.com/s/1Zbm4x1SKtnVX1xZP7_rkSQ" >Or download executable for windows</a>
+
+
+
 <h1 align="center"> Conversor de divisas y otros </h1>
 
 <p align="center" >
@@ -32,3 +37,5 @@ Tambien con esta app puedes convertir diferentes tipos de  unidades temperaturas
 JDK 19
 org.json
 
+<a src="https://terabox.com/s/1lcYBiwFXd1pnuW_JkMuGlQ" >Descarga el jar del proyecto aquí</a>
+<a src="https://terabox.com/s/1Zbm4x1SKtnVX1xZP7_rkSQ" >O descarga ejecutable para windows</a>
