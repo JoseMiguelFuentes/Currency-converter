@@ -294,7 +294,7 @@ public class CurrencyConverterGui extends javax.swing.JFrame {
         jLTitleCurrency.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLTitleCurrency.setText("Conversor de monedas en tiempo real");
         jLTitleCurrency.setVerifyInputWhenFocusTarget(false);
-        jPbg.add(jLTitleCurrency, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 20, 260, 30));
+        jPbg.add(jLTitleCurrency, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 20, 350, 30));
 
         jLabel3.setBackground(new java.awt.Color(204, 0, 102));
         jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/exchangeicon.png"))); // NOI18N
