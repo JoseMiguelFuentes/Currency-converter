@@ -18,7 +18,7 @@ org.json
 
 🔹 [Download the project jar here](https://terabox.com/s/1lcYBiwFXd1pnuW_JkMuGlQ)
 
-🔹 [Or download executable for windows](https://terabox.com/s/1Zbm4x1SKtnVX1xZP7_rkSQ)
+🔹 [Or download executable for windows](https://terabox.com/s/18mau99Ih1xUtFUVQo9dO9g)
 
 
 <h1 align="center"> Conversor de divisas y otros </h1>
@@ -40,4 +40,4 @@ org.json
 
 🔹 [Descarga el jar del proyecto aquí](https://terabox.com/s/1lcYBiwFXd1pnuW_JkMuGlQ)
 
-🔹 [O descarga ejecutable para windows](https://terabox.com/s/1Zbm4x1SKtnVX1xZP7_rkSQ)
+🔹 [O descarga ejecutable para windows](https://terabox.com/s/18mau99Ih1xUtFUVQo9dO9g)
